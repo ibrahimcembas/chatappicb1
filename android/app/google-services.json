@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769691640164",
+    "project_id": "chatappicb",
+    "storage_bucket": "chatappicb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769691640164:android:34d06caeae5a79ee6bda71",
+        "android_client_info": {
+          "package_name": "com.example.chatappicb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769691640164-lkpoh1m2vpi5rbakkt11runhuof6kldb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTXxnu4BPIoLLhl0KlXQToqzxkTUtsLbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769691640164-lkpoh1m2vpi5rbakkt11runhuof6kldb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
